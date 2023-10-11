@@ -1,0 +1,8 @@
+*.npy
+*.yaml
+results/*
+data/datasets
+data
+**/__pycache__
+*.png
+data/obj_models
