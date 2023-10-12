@@ -6,3 +6,4 @@ data
 **/__pycache__
 *.png
 data/obj_models
+.vscode
